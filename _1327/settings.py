@@ -287,7 +287,7 @@ COMPRESS_PRECOMPILERS = (
 )
 
 # Set this to the ID of the document that shall be shown as Main Page
-MAIN_PAGE_ID = -1
+MAIN_PAGE_ID = 11571
 
 # OpenID Login
 # replace 'example.com', OIDC_RP_CLIENT_ID and OIDC_RP_CLIENT_SECRET with real values in localsettings when activating
